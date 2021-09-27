@@ -1,5 +1,5 @@
 /* =================================================================== */
-/* Green #72b626
+/* Green #60e6ba
 ====================================================================== */
 
 .page-title h2 span:first-child::before,
@@ -25,7 +25,7 @@ body.blog .btn.back,
 div.bl-panel-items nav span.bl-previous-work,
 div.bl-panel-items nav span.bl-next-work,
 div.bl-panel-items nav span.bl-icon-close {
-	color:#72b626;
+	color:#60e6ba;
 }
 
 .readmore.btn,
@@ -45,12 +45,12 @@ body.blog .pagination li.active,
 .comments-form button:active,
 body.blog .btn.back:hover,
 .personal-info a.btn.btn-blog:hover  {
-	background: #72b626;
+	background: #60e6ba;
 }
 .resume-card-name {
-	color: #72b626 !important;
+	color: #60e6ba !important;
 }
 body.blog .btn.back ,
 .personal-info a.btn.btn-blog {
-	border:1px solid #72b626;
+	border:1px solid #60e6ba;
 }

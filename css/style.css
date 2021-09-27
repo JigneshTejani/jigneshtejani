@@ -172,7 +172,7 @@ body {
 }
 
 .main-picture.men {
-  background-image: url("../images/JT.png");
+  background-image: url("../images/JT.jpg");
   padding: 0;
   margin-top: 24px;
   margin-left: 24px;
@@ -183,7 +183,7 @@ body {
 }
 
 .main-picture.woman {
-  background-image: url("../images/JT.png");
+  background-image: url("../images/JT.jpg");
   padding: 0;
   margin-top: 24px;
   margin-left: 24px;
@@ -1404,18 +1404,13 @@ ul.social-intro li a {
   background: #1da1f2;
 }
 
-.bl-main>section:nth-child(4).bl-expand ul.social-intro li.google-plus a {
-  background: #dd4b39;
+.bl-main>section:nth-child(4).bl-expand ul.social-intro li.github a {
+  background: #24292f;
 }
 
 .bl-main>section:nth-child(4).bl-expand ul.social-intro li.linkedin a {
   background: #0077b5;
 }
-
-.bl-main>section:nth-child(4).bl-expand ul.social-intro li.dribbble a {
-  background: #ea4c89;
-}
-
 
 /*** Right Side ***/
 

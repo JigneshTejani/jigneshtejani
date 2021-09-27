@@ -53,6 +53,7 @@
 }
 
 #showSwitcher {
+	display: none;
 	z-index: 11111;
 	margin-left:0px;
 	position:fixed;
@@ -62,7 +63,7 @@
 	box-shadow:#ccc 0 0 2px;
 	border-left:0;
 	font-size:18px;
-	display: block;
+	/*display: block;*/
 
 	-webkit-border-bottom-right-radius: 3px;
 	   -webkit-border-top-right-radius: 4px;
